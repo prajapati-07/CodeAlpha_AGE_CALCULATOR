@@ -13,11 +13,12 @@ To use the Age Calculator:
 
 ## Preview
 
-[Add a screenshot or GIF of your application here]
+![image](https://github.com/prajapati-07/CodeAlpha_AGE_CALCULATOR/assets/144050744/8ba73e5a-ade8-4284-b4cf-361aa732a8fd)
+
 
 ## Author
 
-[Your Name]
+Keyur prajapati
 
 ## License
 
